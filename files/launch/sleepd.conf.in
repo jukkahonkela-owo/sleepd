@@ -41,5 +41,4 @@ pre-start script
     fi
 end script
     
-service
 exec @WEBOS_INSTALL_SBINDIR@/sleepd
